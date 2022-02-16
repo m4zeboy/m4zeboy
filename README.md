@@ -1,7 +1,6 @@
 ### Olá viajante, meu nome é Moisés 🖐🏻
 
 ## Sou um estudante de tecnologia
-- 🎓 Atualmente estou no 3º Ano do ensino médio;
 - 📚 Faço curso técnico de Desenvolvimento de Sistemas;
 - 🌱 Estudo bastante sobre HTML CSS e JS;
 - ✌🏻 Ah, tenho 17 anos.
