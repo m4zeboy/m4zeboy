@@ -1,9 +1,9 @@
 ### Olá viajante, meu nome é Moisés 🖐🏻
 
 ## Sou um estudante de tecnologia
-- 📚 Faço curso técnico de Desenvolvimento de Sistemas e vou começar a faculdade de Sistemas de Informação pela UFMS;
-- 🌱 Estudo bastante sobre HTML CSS e JS;
-- ✌🏻 Ah, tenho 17 anos.
+- 📚 Cursando Faculdade de Sistemas de Informação na UFMS;
+- 🌱 Web Development;
+- 🦇 Fã do batman.
 
 <br>
 
