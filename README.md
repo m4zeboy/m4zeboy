@@ -9,7 +9,7 @@
 <br>
 
 ### How to contact me
-* ![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) moises.silva.azevedo@outlook.com
+* ![Outlook]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}) moises.silva.azevedo@outlook.com
 
 ### Status
 
