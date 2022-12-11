@@ -1,15 +1,15 @@
-### Olá viajante, meu nome é Moisés 🖐🏻
+### Hello. 🖐🏻
 
-## Sou um estudante de tecnologia
-- 📚 Cursando Faculdade de Sistemas de Informação na UFMS;
-- 🌱 Web Development;
-- 🦇 Fã do batman.
+## I am a Computing student
+
+- 📚 Student of Bachelor in Information Sytems at UFMS;
+- 🌱 C Programmer and very curious for hardware architecture (Begginer in web development);
+- 🐺 Winter is coming, yeah i'm a Stark and you?.
 
 <br>
 
-### Contato
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dev.moises.azevedo@gmail.com
-* ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) @m4zeboy
+### How to contact me
+* ![Outlook]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)) moises.silva.azevedo@outlook.com
 
 ### Status
 
