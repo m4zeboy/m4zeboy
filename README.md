@@ -4,7 +4,7 @@
 
 - 📚 Student of Bachelor in Information Sytems at UFMS;
 - 🌱 C Programmer and very curious for hardware architecture (Begginer in web development);
-- 🐺 Winter is coming, yeah i'm a Stark and you?.
+- 🐺 A big game of thrones fan.
 
 <br>
 
