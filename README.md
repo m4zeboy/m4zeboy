@@ -11,11 +11,10 @@
 
 ### How to contact me
 <div algin="center">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  <span>moises.silva.azevedo@outlook.com</span>
+  <a href="mailto:moises.silva.azevedo@outlook.com">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />     </a>
 </div>
 
-### Status
+### ⚙️ Github Analytics
 
 ![M4zeboy's Stats](https://github-readme-stats.vercel.app/api?username=m4zeboy&show_icons=true&theme=blue-green)
 
