@@ -9,7 +9,10 @@
 <br>
 
 ### How to contact me
-* <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> moises.silva.azevedo@outlook.com
+<div algin="center">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <span>moises.silva.azevedo@outlook.com</span>
+</div>
 
 ### Status
 
