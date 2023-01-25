@@ -2,7 +2,7 @@
 
 <h1 align="left"> I am a Computing student </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4zeboy&color=yellow" alt="Profile views" /> </p>
-<img src="https://raw.githubusercontent.com/gist/m4zeboy/cff38957fc5bd75f6688bc007c270ed0/raw/206ddeaf0865d41da480db590bb313500239f020/githubcard.svg" align="right">
+<img src="https://raw.githubusercontent.com/gist/m4zeboy/cff38957fc5bd75f6688bc007c270ed0/raw/206ddeaf0865d41da480db590bb313500239f020/githubcard.svg" align="right" height="500">
 
 - 📚 Student of Bachelor in Information Sytems at UFMS;
 - 🌱 C Programmer and very curious for hardware architecture (Begginer in web development);
