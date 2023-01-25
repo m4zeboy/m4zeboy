@@ -16,6 +16,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
+## ⚙️ Github Analytics
+![M4zeboy's Stats](https://github-readme-stats.vercel.app/api?username=m4zeboy&show_icons=true&theme=blue-green)
+![M4zeboy's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m4zeboy&theme=blue-green)
+
 ## How to contact me
 <a href="https://twitter.com/m4zeboy" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-m4zeboy-05122A?style=flat&logo=twitter" alt="twitter"/>  
@@ -26,9 +30,3 @@
 <a href="https://instagram.com/moises.silva.azevedo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-moises.silva.azevedo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
-## ⚙️ Github Analytics
-
-![M4zeboy's Stats](https://github-readme-stats.vercel.app/api?username=m4zeboy&show_icons=true&theme=blue-green)
-
-![M4zeboy's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m4zeboy&theme=blue-green)
